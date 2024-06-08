@@ -4,4 +4,4 @@ Focusing on HTML,CSS,JAVASCRIPT.
 The internship was concluded entirely almost JUNE.
 In convience in completing the assigned tasks.
 INTERNSHIP DURATION:1 MONTH
-MODE:JUNE
+MODE:ONLINE
